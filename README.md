@@ -2,6 +2,7 @@
 ***
 <li>Задание №1</li>
 
+
 4) Выполнили копирование содержимого раздела /boot с диска sda (ssd1) на диск sdb (ssd2) `dd if=/dev/sda1 of=/dev/sdb1`:
 
 ![disks](https://github.com/kawakate/laba/blob/master/lab%202/1.4.png)
